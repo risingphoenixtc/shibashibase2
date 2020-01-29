@@ -1,0 +1,82 @@
+{% comment %}
+
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Default layout
+
+	Description:
+
+		Basic HTML foundation for all pages.
+
+	Example:
+
+		---
+		layout: default
+		---
+
+{% endcomment %}
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+            {% gtm head %}
+            
+            <title>
+                {% if page.title-tag %}
+                  {{ page.title-tag }}
+                {% else %}
+                  {{ page.title }} | Clear Spring Acupuncture
+                {% endif %}
+            </title>
+            
+            {% seo title=false %}
+            
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+               
+
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?v=pglkJlk7ew">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?v=pglkJlk7ew">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?v=pglkJlk7ew">
+<link rel="manifest" href="/images/site.webmanifest?v=pglkJlk7ew">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg?v=pglkJlk7ew" color="#5bbad5">
+<link rel="shortcut icon" href="/images/favicon.ico?v=pglkJlk7ew">
+<meta name="apple-mobile-web-app-title" content="Clear Spring Acupuncture">
+<meta name="application-name" content="Clear Spring Acupuncture">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="msapplication-config" content="/images/browserconfig.xml?v=pglkJlk7ew">
+<meta name="theme-color" content="#ffffff">
+
+
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
+                <link href="{{ site.baseurl }}/assets/css/featherlight.min.css" type="text/css" rel="stylesheet" />
+                <link href="{{ site.baseurl }}/assets/css/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
+	</head>
+        
+        
+	<body class="is-preload">
+{% gtm body %}
+		{% include layout/header.html class=page.header_class %}
+
+		{{ content }}
+
+		{% include layout/footer.html %}
+
+		<!-- Scripts -->
+			<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/jquery.scrollex.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/browser.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/breakpoints.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/util.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/main.js"></script>
+                        <script src="{{ site.baseurl }}/assets/js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+                        <script src="{{ site.baseurl }}/assets/js/featherlight.gallery.min.js" type="text/javascript" charset="utf-8"></script>
+
+	</body>
+</html>

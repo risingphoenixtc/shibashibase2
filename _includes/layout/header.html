@@ -1,0 +1,115 @@
+{% comment %}
+
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Site header
+
+	Description:
+
+		Site header and navigation.
+		Set "header_class" to "alt" in the page frontmatter
+		to blend the header with the page.
+
+	Example:
+
+		{% include layout/header.html %}
+
+{% endcomment %}
+
+<!-- Header -->
+	<header id="header" class="{{ include.class }}">
+           
+		<h1><a href="{{ site.baseurl }}/">
+                         {% include components/logo-horizontal-svg.html %}
+		</a></h1>
+		<nav id="nav">
+			<ul>
+                            <li><a href="{{ site.baseurl }}/" >Home</a>
+                             
+                                   
+                            </li>
+                            <li>
+                                    <a href="/about-acupuncture/"  class="submenu fa-angle-down">About Acupuncture</a>
+                                    <ul>
+                                            <li><a href="/about-acupuncture/">Introduction</a></li>
+                                            <li><a href="/about-acupuncture/what-is-acupuncture.html">What is Acupuncture?</a></li>
+                                            <li><a href="/about-acupuncture/consultation-types.html">Types of Consultation?</a></li>
+                                            <li><a href="/about-acupuncture/how-does-acupuncture-work.html">How does it work?</a></li>
+                                            <li><a href="{{ site.baseurl }}/what-to-expect.html">What To Expect</a></li>
+                                            <li><a href="/about-acupuncture/acupuncture-safety.html">Acupuncture safety</a></li>
+                                            <li><a href="/about-acupuncture/acupuncture-treatment-methods.html">Treatment Methods</a></li>
+                                            <li><a href="/about-acupuncture/what-is-medical-acupuncture.html">What is Medical acupuncture?</a></li>
+                                            <li><a href="/about-acupuncture/health-insurance-cover.html">Health Insurance Cover?</a></li>
+                                           
+                                    </ul>
+                            </li>
+                            <li>
+                                <a href="/about-me/" class="submenu fa-angle-down">About Me</a>
+                                    <ul>
+                                        <li><a href="/about-me/">Introduction</a></li>
+                                        <li><a href="/about-me/professional-standards.html">Professional Standards</a></li>
+                                        <li><a href="/about-me/training-and-experience.html">Training & Experience</a></li>
+                                        <li><a href="/about-me/why-did-i-train-as-an-acupuncturist.html">Why I trained as an Acupuncturist</a></li>
+                                        <li><a href="/about-me/insurance.html">Insurance</a></li>
+                                        <li><a href="/about-me/biography.html">Biography</a></li>
+                                        <li><a href="/about-me/testimonials.html">Testimonials</a></li>
+                                    </ul>
+                            </li>
+                             <li><a href="/about-acupuncture/what-can-acupuncture-help.html" class="submenu  fa-angle-down">What Can It Help?</a>
+                                            
+                                <ul>
+                                    <li><a href="/children-young-people/" class="submenu ">Children & Young People</a>  
+                                        <ul>
+                                            <li><a href="/children-young-people/">Introduction</a></li>
+                                            <li><a href="/children-young-people/babies-toddlers.html">Babies & Toddlers</a></li>
+                                            <li><a href="/children-young-people/children.html">Children</a></li>
+                                            <li><a href="/children-young-people/teenagers-young-adults.html">Teenagers & Young Adults</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="/fertility/" class="submenu ">Fertility</a>
+                                        <ul>
+                                             <li><a href="/fertility/">Introduction</a></li>
+                                             <li><a href="/fertility/female-fertility.html">Female Fertility</a></li>
+                                             <li><a href="/fertility/male-fertility.html">Male Fertility</a></li>
+                                             <li><a href="/fertility/assisted-reproduction.html"><span class="hide-xs">Assisted Reproduction -</span> IVF, IUI etc</a></li>
+                                             <li><a href="/fertility/pregnancy-birth.html">Pregnancy & Birth</a></li>
+                                        </ul>
+                                    </li>   
+                                    <li><a href="/emotional-wellbeing/" class="submenu ">Emotional Wellbeing</a>
+                                        <ul>
+                                             <li><a href="/emotional-wellbeing/">Introduction</a></li>
+                                             <li><a href="/emotional-wellbeing/stress.html">Stress</a></li>
+                                             <li><a href="/emotional-wellbeing/anxiety.html">Anxiety</a></li>
+                                             <li><a href="/emotional-wellbeing/depression.html">Depression</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="/gender-health/" class="submenu ">Gender Health</a>
+                                        <ul>
+                                           <li><a href="/gender-health/">Introduction</a></li>
+                                           <li><a href="/womens-health/">Womens Health</a></li>
+                                           <li><a href="/male-health/">Mens Health</a></li>
+                                       </ul>
+                                    </li>   
+                                     <li><a href="/wellness-later-life/" class="strong">Wellness In Later life</a></li>
+                                    <li><a href="/physical-health/index.html#physical-health"  class="strong">Physical Health</a></li>
+                                    <li><a href="/physical-health/index.html#pain"  class="strong">Pain Conditions</a></li>
+
+                                </ul>
+                            </li>
+                            <li><a href="/common-questions.html" class="submenu  fa-angle-down">Common Questions</a>
+                                <ul>
+                                    <li><a href="/common-questions.html" >Index </a></li>
+                                    <li><a href="/where-are-the-clinics.html" >Where are the clinics?</a></li>
+                                </ul>  
+                            </li>
+                            
+                            <li><a href="#contact-trigger" class="contact-trigger">Contact</a></li>
+                            <!--<li><a href="{{ site.baseurl }}/blog">Blog</a></li>-->
+                            <li><a href="{{ site.baseurl }}/how-to-book.html" class="button">Book an Appt</a></li>
+			</ul>
+		</nav>
+	</header>
