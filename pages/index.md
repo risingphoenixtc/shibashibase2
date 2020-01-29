@@ -1,32 +1,28 @@
 ---
 layout: home
 title: Welcome
-title-tag: "Acupuncture in Cardiff - Experienced, Individual Care"
+title-tag: "Experienced, Authentic Tai Chi Teaching in Cardiff"
 permalink: /
 section: home
 intro_paragraph: >
   [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  provides the basics to get a fast, 
 navtiles_paragraph: >
-  I completed my Acupuncture degree in 2012. I run a comprehensive general practise clinic for adults, a young person's clinic for babies, children and teenagers and a clinic for individuals and couples who need assistance conceiving or carrying a pregnancy.
-
-  As well as my accumulated experience since 2012, I have specialist additional training and experience in the **treatment of babies, children & young people** and the **treatment of fertility related issues**.
+  Tai Chi Chuan and Qigong, (pronounced Chi Kung), is a traditional Chinese exercise which uses sequences of graceful gentle movement, developed by martial arts masters centuries ago, to promote wholeness and health.¨Through simple warm-ups, and the Short Form sequence, we explore the physical principles which include working with body alignment, gentle stretching, and folding/opening of joints; using these natural and nourishing exercises to help bring the body into balance.
+  Through natural breathing and releasing of habitual tensions in the body and mind, Tai Chi helps us to connect with our own sense of well-being and vitality, we learn to meet all the challenges of day to day life with a focused intuitive awareness.¨Tai Chi is a gentle exercise and is suitable for all ages.¨ Beginners are welcome and improvers are invited to deepen their relationship with this ¨beautiful art of movement.
 
 features:
-- icon: fa-check-square-o
-  title: Can Acupuncture Help You?
-  excerpt: People the world over use Acupuncture to resolve a very wide range of both physical and emotional health issues.  It helps 1000s of people every day, if you are not sure if it can help you then please [get in touch with me](#contact-trigger){:.contact-trigger} and ask or there is more information on this website.  
-  url: about-acupuncture/index.html
 - icon: fa-handshake-o
-  title: Am I the right Acupuncturist for you?
-  excerpt: I provide individualised, patient-centred treatments that are focused on addressing what matters to you. I believe in nourishing people from the inside out and forming long lasting relationships based on trust, integrity and commitment. Click to find out more about my training, experience and approach.
-  url: about-me/index.html
+  title: Which Class For You?
+  excerpt: The philosphy of the school is .....Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   Rising Phoenix Tai Chi   
+  url: /about-tai-chi/
+- icon: fa-check-square-o
+  title: Is Tai Chi Right for You?
+  excerpt: Tai Chi has been practised for many hundreds of years for its far reaching health, emotional and physical confidence benefits as well as for its effectiveness as a form of self defence.  It is practised the world over by people of all physical abilities. If you are not sure if it can help you then please [get in touch ](#contact-trigger){:.contact-trigger} and ask or there is more information on this website.
+  url: /benefits-of-tai-chi/
 - icon: fa-road
   title: What Should You Expect?
-  excerpt: You should expect to feel cared about. You will be listened to carefully every time I see you, what you share with me will be taken seriously and you will be treated professionally, kindly and with a deep commitment to your wellbeing.  Click to find out more.
+  excerpt: You should expect to feel welcome and to have an enjoyable, engaging experience of a form of exercise that is gentle but strong, relaxing but energising. All of our classes are friendly and welcoming and tailored to you, whether you are a beginner or have more experience.  Click to find out more.
   url: what-to-expect.html
 
 posts:
