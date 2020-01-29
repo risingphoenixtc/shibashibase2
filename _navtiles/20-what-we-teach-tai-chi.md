@@ -1,6 +1,6 @@
 ---
 title: Tai Chi
-image: /images/uploads/tiles/middleaged-woman-chatting-sofa551x297.jpg
+image: /images/uploads/middleaged-woman-chatting-sofa551x297.jpg
 href: /what-we-teach/tai-chi.html
 customtags:
   - tiles-what-we-teach

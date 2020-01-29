@@ -1,7 +1,7 @@
 ---
 
 title: Christie Butterick
-image: /images/uploads/tiles/open-book551x297.jpg
+image: /images/uploads/open-book551x297.jpg
 href: /about-us/christie.html
 customtags:
   - tiles-aboutus

@@ -1,6 +1,6 @@
 ---
 title: Qi Gong
-image: /images/uploads/tiles/emotional-wellbeing-551x297.jpg
+image: /images/uploads/emotional-wellbeing-551x297.jpg
 href: /what-we-teach/qi-gong.html
 customtags:
   - tiles-what-we-teach

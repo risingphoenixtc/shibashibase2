@@ -1,6 +1,6 @@
 ---
 title: Yin & Yang
-image: /images/uploads/tiles/hand-up-in-class551x297.jpg
+image: /images/uploads/hand-up-in-class551x297.jpg
 href: /tai-chi-information/yin-and-yang.html
 customtags:
   - tiles-abouttaichi

@@ -1,6 +1,6 @@
 ---
 title: What Is Qi?
-image: /images/uploads/tiles/taking-pulse551x297.jpg
+image: /images/uploads/taking-pulse551x297.jpg
 href: /tai-chi-information/what-is-qi.html
 customtags:
   - tiles-tai-chi-information

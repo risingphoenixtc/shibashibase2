@@ -1,6 +1,6 @@
 ---
 title: TT Liang
-image: /images/uploads/tiles/pregnancy-birth-551x297.jpg
+image: /images/uploads/pregnancy-birth-551x297.jpg
 href: /about-us/tt-liang.html
 customtags:
   - tiles-about-us

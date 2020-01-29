@@ -1,6 +1,6 @@
 ---
 title: Shibashi
-image: /images/uploads/tiles/young-woman-lying-grass551x297.jpg
+image: /images/uploads/young-woman-lying-grass551x297.jpg
 href: /what-we-teach/shibashi.html
 customtags:
   - tiles-what-we-teach

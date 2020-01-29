@@ -1,7 +1,7 @@
 ---
 
 title: Dr Chi
-image: /images/uploads/tiles/young-man-facing-camera-551x297.jpg
+image: /images/uploads/young-man-facing-camera-551x297.jpg
 href: /about-us/dr-chi.html
 customtags:
   - tiles-aboutus

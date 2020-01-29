@@ -1,7 +1,7 @@
 ---
 
 title: Insurance
-image: /images/uploads/tiles/paper-family-in-hands551x297.jpg
+image: /images/uploads/paper-family-in-hands551x297.jpg
 href: /about-us/insurance.html
 customtags:
   - tiles-aboutus

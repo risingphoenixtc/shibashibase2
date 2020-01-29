@@ -1,6 +1,6 @@
 ---
 title: Confidence
-image: /images/uploads/tiles/emotional-wellbeing-551x297.jpg
+image: /images/uploads/emotional-wellbeing-551x297.jpg
 href: /benefits-of-tai-chi/confidence.html
 customtags:
   - tiles-home

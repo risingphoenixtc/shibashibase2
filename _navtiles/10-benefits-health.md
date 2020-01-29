@@ -1,6 +1,6 @@
 ---
 title: Improved Health
-image: /images/uploads/tiles/baby-in-towel-551x297.jpg
+image: /images/uploads/baby-in-towel-551x297.jpg
 href: /benefits-of-tai-chi/health.html
 customtags:
   - tiles-benefits

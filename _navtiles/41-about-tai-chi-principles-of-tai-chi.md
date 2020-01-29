@@ -1,6 +1,6 @@
 ---
 title: Principles of Tai Chi
-image: /images/uploads/tiles/taking-pulse551x297.jpg
+image: /images/uploads/taking-pulse551x297.jpg
 href: /tai-chi-information/water-tai-qi-classics.html
 customtags:
   - tiles-tai-chi-information

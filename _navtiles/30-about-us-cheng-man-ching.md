@@ -1,6 +1,6 @@
 ---
 title: Cheng Man Ching
-image: /images/uploads/tiles/women-pregnancy-test-551x297.jpg
+image: /images/uploads/women-pregnancy-test-551x297.jpg
 href: /about-us/cheng-man-ching.html
 customtags:
   - tiles-aboutus

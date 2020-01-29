@@ -1,6 +1,6 @@
 ---
 title: Calmness & Relaxation
-image: /images/uploads/tiles/fertility-551x297.jpg
+image: /images/uploads/fertility-551x297.jpg
 href: /benefits-of-tai-chi/relaxation.html
 customtags:
   - tiles-benefits

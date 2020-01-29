@@ -1,6 +1,6 @@
 ---
 title: Professional Standards
-image: /images/uploads/tiles/hands-with-book-and-pen-551x297.jpg
+image: /images/uploads/hands-with-book-and-pen-551x297.jpg
 href: /about-us/professional-standards.html
 customtags:
   - tiles-aboutus

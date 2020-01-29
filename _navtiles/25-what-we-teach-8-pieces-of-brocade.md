@@ -1,6 +1,6 @@
 ---
 title: 8 Pieces of Brocade
-image: /images/uploads/tiles/pregnant-woman-lying-down-551x297.jpg
+image: /images/uploads/pregnant-woman-lying-down-551x297.jpg
 href: /what-we-teach/eight-pieces-of-brocade.html
 customtags:
   - tiles-what-we-teach
