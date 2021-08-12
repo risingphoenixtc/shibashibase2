@@ -2,8 +2,58 @@
 layout: sidebar
 sidebar_align: right
 title: Water Tai Chi Classics
-image: /images/uploads/chinese-parchment-551x297.jpg
 permalink: /about-us/water-tai-chi-classics.html
+image: /images/uploads/chinese-parchment-551x297.jpg
+intro_paragraph: >-
+  ### Water
+
+
+  ####  
+
+
+  Of all the elements, the sage should take water as his preceptor. 
+
+
+  Water is yielding but all-conquering 
+
+
+   
+
+
+  ![](http://www.shibashi.com/fileserve/fileserve/1758/3b161be041a0ec3e4c3c38bb1f7d007c98220e80/index.html)
+
+
+   
+
+
+  Water extinguishes fire, or finding itself likely to be defeated, escapes as steam and reforms. 
+
+
+  Water washes away soft earth or, when confronted by rocks, seeks a way round.
+
+
+  Water corrodes iron till it crumbles to dust. 
+
+
+  It saturates the atmosphere so that wind dies. 
+
+
+  Water gives way to obstacles with deceptive humility for no power can prevent it following its destined course to the sea. 
+
+
+  Water conquers by yielding; it never attacks, and always wins the last battle. 
+
+
+  The sage who makes himself as water 
+
+
+  is distinguished for his humility; 
+
+
+  he embraces passivity; acts from non-action and conquers the world.
+
+
+  **Lao Tzu**
 ---
 
  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
