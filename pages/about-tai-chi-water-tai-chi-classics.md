@@ -17,13 +17,7 @@ intro_paragraph: >-
   Water is yielding but all-conquering 
 
 
-   
-
-
-  ![](http://www.shibashi.com/fileserve/fileserve/1758/3b161be041a0ec3e4c3c38bb1f7d007c98220e80/index.html)
-
-
-   
+  ![]()
 
 
   Water extinguishes fire, or finding itself likely to be defeated, escapes as steam and reforms. 
