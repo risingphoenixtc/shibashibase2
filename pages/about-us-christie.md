@@ -4,7 +4,7 @@ sidebar_align: right
 title: Christie Butterick
 permalink: /about-us/christie.html
 image: /images/uploads/open-book551x297.jpg
-intro_paragraph: ""
+intro_paragraph: test
 ---
 Christie is a full-time teacher with more than 39 years experience and is Tai Chi Union of Great Britain approved. She is qualified in massage via the London School of Alternative Medicine and is a City and Guilds qualified Seated Accupressure Therapist.
 
