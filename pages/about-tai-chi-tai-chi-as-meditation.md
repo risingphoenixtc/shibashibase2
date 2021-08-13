@@ -38,10 +38,3 @@ intro_paragraph: >-
 
   – Koichi Tohei ”Ki in Daily Life”
 ---
-
- Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
-
-## Heading 2
-  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
-### Heading 3
-  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
