@@ -32,9 +32,3 @@ intro_paragraph: >-
 
   Life is movement. The more life there is, the more flexibility there is. The more fluid you are, the more you are alive. – Arnaud Desjardins
 ---
-  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
-
-## Heading 2
-  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
-### Heading 3
-  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
