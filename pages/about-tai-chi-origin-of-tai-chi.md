@@ -41,10 +41,3 @@ intro_paragraph: >-
 
   – Chunyi Lin
 ---
-
- Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
-
-## Heading 2
-  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
-### Heading 3
-  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
