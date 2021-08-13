@@ -70,10 +70,3 @@ intro_paragraph: >-
 
   “Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.”– Bruce Lee
 ---
-
- Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
-
-## Heading 2
-  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
-### Heading 3
-  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
