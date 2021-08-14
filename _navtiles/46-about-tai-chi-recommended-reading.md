@@ -1,5 +1,5 @@
 ---
-title: Yin & Yang
+title: Recommended Reading
 image: /images/uploads/hand-up-in-class551x297.jpg
 href: /tai-chi-information/yin-and-yang.html
 customtags:
