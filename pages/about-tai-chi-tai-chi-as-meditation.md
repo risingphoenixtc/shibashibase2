@@ -6,7 +6,7 @@ permalink: /about-tai-chi/tai-chi-as-meditation.html
 image: /images/uploads/moxa-rolls-551x297.jpg
 intro_paragraph: ""
 ---
-### "*By definition, Meditation refers to any of a family of practices in which the practitioner trains his or her mind, or self-induces a mode of consciousness in order to realise some benefit; to focus the mind so that all words and mental images slow down or ultimately stop*\
+### "*By definition, Meditation refers to any of a family of practices in which the practitioner trains his or her mind, or self-induces a mode of consciousness in order to realise some benefit; to focus the mind so that all words and mental images slow down or ultimately stop*
 
 To many people, meditation is sitting crossed legged whilst trying to still the ever-chattering mind.
 
