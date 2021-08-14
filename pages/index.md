@@ -8,8 +8,8 @@ intro_paragraph: >
   [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
   provides the basics to get a fast, 
 navtiles_paragraph: >
-  Tai Chi Chuan and Qigong, (pronounced Chi Kung), is a traditional Chinese exercise which uses sequences of graceful gentle movement, developed by martial arts masters centuries ago, to promote wholeness and health.¨Through simple warm-ups, and the Short Form sequence, we explore the physical principles which include working with body alignment, gentle stretching, and folding/opening of joints; using these natural and nourishing exercises to help bring the body into balance.
-  Through natural breathing and releasing of habitual tensions in the body and mind, Tai Chi helps us to connect with our own sense of well-being and vitality, we learn to meet all the challenges of day to day life with a focused intuitive awareness.¨Tai Chi is a gentle exercise and is suitable for all ages.¨ Beginners are welcome and improvers are invited to deepen their relationship with this ¨beautiful art of movement.
+  Tai Chi Chuan and Qigong, (pronounced Chi Kung), is a traditional Chinese exercise which uses sequences of graceful gentle movement, developed by martial arts masters centuries ago, to promote wholeness and health. Through simple warm-ups, and the Short Form sequence, we explore the physical principles which include working with body alignment, gentle stretching, and folding/opening of joints; using these natural and nourishing exercises to help bring the body into balance.
+  Through natural breathing and releasing of habitual tensions in the body and mind, Tai Chi helps us to connect with our own sense of well-being and vitality, we learn to meet all the challenges of day to day life with a focused intuitive awareness. Tai Chi is a gentle exercise and is suitable for all ages.¨ Beginners are welcome and improvers are invited to deepen their relationship with this beautiful art of movement.
 
 features:
 - icon: fa-handshake-o
