@@ -1,7 +1,7 @@
 ---
 layout: sidebar-gateway
 sidebar_align: right
-title: About Rising Phoenix Tai Chi
+title: About Us
 tilestag: tiles-aboutus
 permalink: /about-us/
 image: /images/uploads/antique-phone551x297.jpg
