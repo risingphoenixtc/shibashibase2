@@ -7,7 +7,7 @@ permalink: /benefits-of-tai-chi/
 image: /images/uploads/bridge-missing-plank551x297.jpg
 intro_paragraph: ""
 ---
-We teach a range of practices that all help you develop your health, vitality and happiness.
+We teach a range of practices that all help you develop your health, vitality and happiness.I
 
 Tai Chi is well known as a practice that increases your ability to relax but what is less known is that for thos who practise it regularly and over a longer period it has much more wide ranging and profound effects.
 
