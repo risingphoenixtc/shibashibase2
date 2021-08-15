@@ -8,7 +8,7 @@ intro_paragraph: ""
 ---
 **Tai Chi for organisations & corporate clients we have worked with.**
 
-Wales TUC - Mental Health- Seminar
+Wales TUC - Mental Health- Seminari
 
 South Wales Fire Service
 
