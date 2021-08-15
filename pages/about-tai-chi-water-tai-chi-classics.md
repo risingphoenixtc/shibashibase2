@@ -12,8 +12,6 @@ Of all the elements, the sage should take water as his preceptor. 
 
 Water is yielding but all-conquering 
 
-
-
 Water extinguishes fire, or finding itself likely to be defeated, escapes as steam and reforms. 
 
 Water washes away soft earth or, when confronted by rocks, seeks a way round.
@@ -32,4 +30,4 @@ is distinguished for his humility; 
 
 he embraces passivity; acts from non-action and conquers the world.
 
-**Lao Tzu**
+**Lao Tzu.**
