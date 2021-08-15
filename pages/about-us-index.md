@@ -6,13 +6,15 @@ tilestag: tiles-aboutus
 permalink: /about-us/
 image: /images/uploads/antique-phone551x297.jpg
 intro_paragraph: >-
+  
+
+  ![](http://www.shibashi.com/fileserve/fileserve/1735/bba900632edb6b66457a6c1fb42cdfde3c0f414a/index.html)
+
+
   **Rising Phoenix Tai Chi**
 
 
   Our mission and delight is to offer instruction in Cheng Man Ching Yang style Tai Chi and Qigong. Without the use of drugs or special equipment, these ancient Chinese exercise systems can help us maximise our chances of living a healthy, long, harmonious life.
-
-
-  ![](http://www.shibashi.com/fileserve/fileserve/1735/bba900632edb6b66457a6c1fb42cdfde3c0f414a/index.html)
 
 
   The gentle exercises help relieve stress and are suitable for people of all ages, abilities, creeds and aspirations.  Rising Phoenix is dedicated to providing the stimulus to help individuals and groups develop a profound level of focus and self-healing.
@@ -39,9 +41,6 @@ intro_paragraph: >-
   Christie facilitates workshops for Corporate Clients and Health Professionals.
 
 
-   
-
-
   > Tai chi… might well be called “medication in motion.”\
 
   > There is growing evidence that this mind-body practice…\
@@ -49,8 +48,4 @@ intro_paragraph: >-
   > has value in treating or preventing many health problems.\
 
   > – Harvard Medical School’s Harvard Health Publication, May, 2009
-
-  >
-
-  >
 ---
