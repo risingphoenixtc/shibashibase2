@@ -6,7 +6,7 @@ permalink: /workplace-tai-chi/our-clients.html
 image: /images/uploads/emotional-wellbeing-551x297.jpg
 intro_paragraph: ""
 ---
-**Tai Chi for organisations & corporate clients we have worked with**
+**Tai Chi for organisations & corporate clients we have worked with.**
 
 Wales TUC - Mental Health- Seminar
 
