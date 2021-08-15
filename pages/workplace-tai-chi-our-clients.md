@@ -46,6 +46,6 @@ Cardiff Communities Housing Association
 
 Newydd Housing Association
 
-W.I Womens Institute
+W.I Woman's Institute
 
 Cardiff Institute For The Blind
