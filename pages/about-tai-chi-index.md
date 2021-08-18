@@ -4,8 +4,15 @@ sidebar_align: right
 title: About Tai chi
 tilestag: tiles-abouttaichi
 permalink: /about-tai-chi/
-intro_paragraph: |-
- Tai Chi, Qi Gong and the other practises we teach all can help health and wellbeing in many ways and you cannot get the benefit of them simply by by reading books because they are practical skills. They do however have a fascinating history. Some students, also find reading about the practises a helpful addition to regular practise that enriches their experience of these arts.
-
-  In this section you will find information that covers a range of areas. We will be expanding this section so if there is something you think is missing then please contact us to let us know.
+image: /images/uploads/chinese-parchment-551x297.jpg
+intro_paragraph: ""
 ---
+
+
+* Tai Chi is a system of meditation in movement, based on the martial arts, which is reputed to have originated in 13th Century China. 
+* It is a gentle, flowing and continuous exercise, practised in slow motion and it can often be seen on TV in documentaries about China or Hong Kong.
+* It is practised to promote health and vitality and to bring harmony to body and mind. 
+* It is suitable for men and women of all ages. 
+* It is non-competitive, but includes techniques for self-defence. 
+* The continuous movements of the form (Tai Chi Chuan) help to relax and loosen muscles and joints, stimulate blood circulation, control blood pressure and work on the spine, strengthening the lower back. 
+* Tai Chi, practised every day, puts us in touch with our inner strength, giving a quality of deep beauty and meaning to life.
