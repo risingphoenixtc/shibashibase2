@@ -6,15 +6,13 @@ tilestag: tiles-aboutus
 permalink: /about-us/
 image: /images/uploads/antique-phone551x297.jpg
 intro_paragraph: >-
-  
-
   ![](http://www.shibashi.com/fileserve/fileserve/1735/bba900632edb6b66457a6c1fb42cdfde3c0f414a/index.html)
 
 
   **Rising Phoenix Tai Chi**
 
 
-  Our mission and delight is to offer instruction in Cheng Man Ching Yang style Tai Chi and Qigong. Without the use of drugs or special equipment, these ancient Chinese exercise systems can help us maximise our chances of living a healthy, long, harmonious life.
+  The on going mission and our delight is to offer instruction in Cheng Man Ching Yang style Tai Chi and Qigong. Without the use of drugs or special equipment, these ancient Chinese exercise systems can help us maximise our chances of living a healthy, long, harmonious life.
 
 
   The gentle exercises help relieve stress and are suitable for people of all ages, abilities, creeds and aspirations.  Rising Phoenix is dedicated to providing the stimulus to help individuals and groups develop a profound level of focus and self-healing.
@@ -23,7 +21,7 @@ intro_paragraph: >-
   For those who wish to enhance their performance in sports of all kinds, there are hidden gems within these systems which use 'body-mind' to help improve core stability and strength as well as the ability to focus concentration on chosen goals.
 
 
-  Christie is a full-time teacher with more than 25 years experience and is Tai Chi Union of Great Britain approved. She is qualified in massage via the London School of Alternative Medicine and is a City and Guilds qualified Seated Accupressure Therapist.
+  Christie is a full-time teacher with more than 35 years experience and is Tai Chi Union of Great Britain approved. She is qualified in massage via the London School of Alternative Medicine and is a City and Guilds qualified Seated Accupressure Therapist.
 
 
   Rising Phoenix holds regular classes and workshops which include Tai Chi, Qigong, Push Hands, Ta Lu, Sword Form, Bo Staff and Moving Five Elements Exercise.
