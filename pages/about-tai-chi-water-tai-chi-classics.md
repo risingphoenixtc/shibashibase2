@@ -28,6 +28,6 @@ The sage who makes himself as water 
 
 is distinguished for his humility; 
 
-he embraces passivity; acts from non-action and conquers the world.
+he embraces passivity; acts from non-action and conquers the world. 
 
 **Lao Tzu.**
