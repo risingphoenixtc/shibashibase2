@@ -5,4 +5,5 @@ href: /what-we-teach/eight-pieces-of-brocade.html
 customtags:
   - tiles-what-we-teach
 ---
-Acupuncture is the most frequently included complementary treatment to support assisted reproduction treatment. It is integrated into many of the best fertility clinics in the world.
+A piece of Chinese silk brocade was a much treasured possession, treated with reverence and often passed down through generations.
+
