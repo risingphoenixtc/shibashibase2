@@ -4,7 +4,7 @@ sidebar_align: right
 title: About Us
 tilestag: tiles-aboutus
 permalink: /about-us/
-image: /images/uploads/antique-phone551x297.jpg
+image: ""
 intro_paragraph: "Rising Phoenix Tai Chi .. our mission is:\r
 
   “To nurture and further educate members in the benefits to be gained from
