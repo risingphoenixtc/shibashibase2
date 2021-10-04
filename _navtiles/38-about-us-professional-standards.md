@@ -5,4 +5,4 @@ href: /about-us/professional-standards.html
 customtags:
   - tiles-aboutus
 ---
-I am a member of the British  Acupuncture Council.  Membership demonstrates that I have completed accredited training, work to the highest professional standards and engage in continuous professional development. 
+I am a member of the main body of T’ai Chi in this country .. The T’ai Chi Union of Britain.  Membership demonstrates that I have completed accredited training, and that my work is to the highest professional standards and I continue to engage with professional development.
