@@ -5,4 +5,4 @@ href: /what-we-teach/qi-gong.html
 customtags:
   - tiles-what-we-teach
 ---
-When we are depressed we can feel powerless or trapped because even though we want to feel more content, we can't just change our emotional state with a click of our fingers. Acupuncture works to balance the body & mind, by understanding where our system is depressed and where overloaded, treatment can help bring us to a state where we feel energy, motivation and joy once more.
+Qi Gong .. translates as, Qi .. energy and Gong .. exercise. -  there are hundreds of individual Qigongs to have fun with.  They are repeated to your own degree, before moving on to the next move.  This is good for laying the foundation down for more formal T’ai Chi work.
