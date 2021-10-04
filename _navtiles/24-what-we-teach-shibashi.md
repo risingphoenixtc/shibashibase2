@@ -5,4 +5,4 @@ href: /what-we-teach/shibashi.html
 customtags:
   - tiles-what-we-teach
 ---
-Modern life with its many demands leaves many of us feeling overwhelmed or swamped at some point. Acupuncture works to balance the body & mind, addressing the over-stimulation we are experiencing, allowing us to experience our life and meet our responsibilities from a position of calmness & strength.
+Shibashi .. 18 movements .. this set of Qigongs have become extremely popular with students.  They provide a good base of the principles  of how to use your body in the T’ai Chi way.
