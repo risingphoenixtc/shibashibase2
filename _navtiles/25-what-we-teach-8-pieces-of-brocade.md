@@ -5,5 +5,4 @@ href: /what-we-teach/eight-pieces-of-brocade.html
 customtags:
   - tiles-what-we-teach
 ---
-A piece of Chinese silk brocade was a much treasured possession, treated with reverence and often passed down through generations.
-
+A piece of Chinese silk brocade was a much treasured possession, treated with reverence and often passed down through generations.  This is a Qigong set of movements.
