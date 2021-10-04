@@ -6,4 +6,4 @@ customtags:
   - tiles-home
   - tiles-benefits
 ---
-  Regular practise of Tai Chi connects us with our bodies, this allows us to feel more grounded both physically and emotionally. This building connection with ourselves leads to a deeper sense of confidence.
+  Regular practise of Tai Chi connects us with our bodies, this allows us to feel more grounded both physically mentally and emotionally.  Leading to a new sense of confidence.
