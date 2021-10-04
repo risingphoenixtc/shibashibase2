@@ -6,4 +6,4 @@ customtags:
   - tiles-benefits
   - tiles-home
 ---
-Acupuncture is well-known for improving fertility both male & female both naturally and for assisted reproduction treatment like IVF or IUI. Individualised treatment and lifestyle advice works to address the issues affecting your fertility. This, along with emotional support helps you be at your best.
+Getting in touch with how we are breathing produces a calmness .. Relaxation in Tai Chi is about slowing down the millions of thoughts so the body has a chance to feel its own space.
