@@ -5,4 +5,4 @@ href: /about-us/dr-chi.html
 customtags:
   - tiles-aboutus
 ---
-Dr. Chi Chaing Tao is another of our lineage holders.  He studied with Cheno Man Ching and became a master in his own right.
+Dr. Chi Chaing Tao is another of our lineage holders.  He studied with Cheng Man Ching and became a master in his own right.
