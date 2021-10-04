@@ -5,4 +5,4 @@ href: /tai-chi-information/what-is-qi.html
 customtags:
   - tiles-abouttaichi
 ---
-Experiencing the benefits of authentic Traditional Acupuncture treatment inspired me so much that I ditched a successful career as a freelance internet consultant to retrain. Here is a little about how and why it inspired me.
+Qi .. we can say it is ‘energy’ But what is energy?  Well its the essence of life, it is the air we breathe, its how nature works .. it is also what we are born with .. it is a big subject.
