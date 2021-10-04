@@ -1,9 +1,8 @@
 ---
-
 title: Insurance
 image: /images/uploads/paper-family-in-hands551x297.jpg
 href: /about-us/insurance.html
 customtags:
   - tiles-aboutus
 ---
-Research shows that Acupuncture is one of the safest forms of medicine.  I also hold full professional insurance.
+I am fully insured with the T’ai Chi Union of Britain.
