@@ -5,4 +5,4 @@ href: /about-us/cheng-man-ching.html
 customtags:
   - tiles-aboutus
 ---
-Acupuncture has a well deserved reputation for enhancing fertility, often being a key factor in successful pregnancies. Treatment identifies important issues affecting fertility, regulates the menstrual cycle and emotions and can support issues like low ovarian reserve and hormonal imbalances.  
+Cheng Man Ching is one of our lineage holders.  He was largely responsible for bringing T’ai Chi to the west.  He set his school up in New York and it soon spread across to us, and beyond.  His Yang Family style is one of the main styles practiced to this day.
