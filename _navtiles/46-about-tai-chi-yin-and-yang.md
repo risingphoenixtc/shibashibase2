@@ -5,5 +5,4 @@ href: /tai-chi-information/yin-and-yang.html
 customtags:
   - tiles-abouttaichi
 ---
-
-I have been treating people with Acupuncture full time since graduating in 2012.  I have specialist training in the treatment of children, teenagers and issues relating to fertility.
+Yin and Yang .. the law of opposites .. soft and hard, night and day, moon and sun, etc.  T’ai Chi is full of these qualities and as students we aim to bring them into balance.
